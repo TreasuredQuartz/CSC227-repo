@@ -16,7 +16,7 @@ public class SallySpeak {
 
     void nextToken()
     {
-        if(tokenizer.hasNext()) token = tokenizer.next();
+        if (tokenizer.hasNext()) token = tokenizer.next();
         else token = "bite";
     }
 

@@ -3,11 +3,10 @@ package ProjectFinal;
 import java.util.Scanner;
 
 public class SallySpeakTester {
-    public static void main(String[] Args)
+    public static void _main(String[] Args)
     {
         System.out.print("SallySpeak is a program adapted from a previous lab. " + "\n" +
-                "The initial premise is that a dog named Sally uses a specific language to communicate. " + "\n" +
-                "First a few exmaples and then the user will be prompted to write a sentence in the language." + "\n" + "\n");
+                "The initial premise is that a dog named Sally uses a specific language to communicate. " + "\n" + "\n");
 
         String firstTest = ("earperk tailwag tailwag tailwag bark whimper earperk bark growl earperk tailwag");
         String secondTest = ("Hello my name is Jeff.");
